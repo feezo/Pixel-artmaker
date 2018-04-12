@@ -1,1 +1,2 @@
 # Pixel-artmaker
+edited readme
